@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200">
+    <h1 align="center">Hi 👋, I'm David </h1>
+    <a href="#">
+        <img src="https://img.shields.io/twitter/follow/BrayanospinaMa1?color=blue&logo=Twitter&style=for-the-badge" alt="Twitter badge">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="">
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+    </a>
+</div>
 
-<!--
-**Dav1d-Tr/Dav1d-Tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on courses of programming
+- 💬 Ask me about PYTHON, C++, HTML
+- 📫 How to reach me: davidrozotuberquia@gmail.com
