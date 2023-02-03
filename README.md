@@ -13,5 +13,5 @@
 </div>
 
 - 🔭 I’m currently working on courses of programming
-- 💬 Ask me about PYTHON, C++, HTML
+- 💬 Ask me about PYTHON, C++, HTML, CSS
 - 📫 How to reach me: davidrozotuberquia@gmail.com
