@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200">
+    <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I'm David </h1>
     <a href="#">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
