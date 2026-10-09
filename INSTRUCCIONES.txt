@@ -1,0 +1,34 @@
+DAVID ROZO — COMPACT RACING INTRO
+
+Abre VISTA_PREVIA.html después de descomprimir el ZIP.
+El encabezado mide 1000 × 280 px: 44 % menos alto que la versión anterior.
+Su ancho se adapta al perfil sin deformarse.
+
+DISEÑO
+Fondo gráfico oscuro, nombre destacado, planos diagonales y acento naranja.
+Se eliminó la fotografía del monoplaza.
+Luces de salida secuenciales, recorrido de pista con estela, llanta giratoria
+pequeña, líneas de velocidad y datos decorativos simulados.
+Un solo GIF, sin pestañas. Ciclo de 10 segundos.
+El encabezado usa una curva de telemetría y barras animadas en lugar de
+nombres de tecnologías. Las tecnologías permanecen en su sección del perfil.
+El trazado es original, no un circuito oficial.
+
+REFERENCIAS CONSULTADAS
+Introducción oficial de F1 2026:
+https://www.formula1.com/en/video/2026-f1-opening-titles.1858830884772851453
+Historia de la introducción de F1:
+https://www.formula1.com/en/latest/article/must-see-watch-f1s-new-opening-title-sequence.52D6WEeQtyc2sig4ciYMQO
+La animación es original; no contiene fragmentos de esos videos ni su música.
+
+INSTALAR EN GITHUB
+Sube README.md y assets/ a la raíz del repositorio de tu perfil.
+Personaliza tus enlaces en SOCIAL LINKS.
+GitHub reproduce el GIF; aplica su propio tema al texto Markdown.
+Los iconos de tecnologías requieren conexión a Internet.
+Para desactivar la animación, cambia header.gif por header-static.png.
+La vista previa respeta la preferencia de movimiento reducido del sistema.
+
+FUENTE EDITABLE
+Incluye generate_banners.py. Instala Pillow y ejecuta el script.
+Adapta FONT_DIR si tus fuentes DejaVu están en otra carpeta.
